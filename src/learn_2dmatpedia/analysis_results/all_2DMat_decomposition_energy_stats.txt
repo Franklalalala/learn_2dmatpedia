@@ -1,0 +1,21 @@
+decomposition_energy statistics:
+  Total structures in database: 6351
+  Structures with decomposition_energy: 6155 (96.91%)
+  Min: 0.000000
+  Max: 3.469618
+  Range: 3.469618
+  Mean: 0.267288
+  Median: 0.146934
+  Standard deviation: 0.354510
+
+Histogram distribution:
+  0.0000 to 0.3470: 4555 structures
+  0.3470 to 0.6939: 1032 structures
+  0.6939 to 1.0409: 319 structures
+  1.0409 to 1.3878: 134 structures
+  1.3878 to 1.7348: 55 structures
+  1.7348 to 2.0818: 30 structures
+  2.0818 to 2.4287: 17 structures
+  2.4287 to 2.7757: 4 structures
+  2.7757 to 3.1227: 3 structures
+  3.1227 to 3.4696: 6 structures

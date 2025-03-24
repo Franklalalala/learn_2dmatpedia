@@ -1,0 +1,13 @@
+Structure statistics:
+  Average atoms per structure: 10.44
+  Median atoms per structure: 8.00
+  Min atoms: 1, Max atoms: 40
+  Average elements per structure: 2.41
+  Median elements per structure: 2.00
+  Min elements: 1, Max elements: 4
+
+Breakdown of number of elements:
+  1 element: 92 structures
+  2 elements: 4107 structures
+  3 elements: 1603 structures
+  4 elements: 549 structures

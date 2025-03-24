@@ -1,0 +1,21 @@
+exfoliation_energy_per_atom statistics:
+  Total structures in database: 6351
+  Structures with exfoliation_energy_per_atom: 4527 (71.28%)
+  Min: -1.218706
+  Max: 3.056498
+  Range: 4.275204
+  Mean: 0.150947
+  Median: 0.089230
+  Standard deviation: 0.204462
+
+Histogram distribution:
+  -1.2187 to -0.7912: 3 structures
+  -0.7912 to -0.3637: 7 structures
+  -0.3637 to 0.0639: 1305 structures
+  0.0639 to 0.4914: 2956 structures
+  0.4914 to 0.9189: 208 structures
+  0.9189 to 1.3464: 32 structures
+  1.3464 to 1.7739: 9 structures
+  1.7739 to 2.2015: 4 structures
+  2.2015 to 2.6290: 1 structures
+  2.6290 to 3.0565: 2 structures

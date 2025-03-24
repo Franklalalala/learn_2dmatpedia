@@ -1,0 +1,21 @@
+bandgap statistics:
+  Total structures in database: 6351
+  Structures with bandgap: 6351 (100.00%)
+  Min: 0.000000
+  Max: 9.449400
+  Range: 9.449400
+  Mean: 1.048038
+  Median: 0.221500
+  Standard deviation: 1.443777
+
+Histogram distribution:
+  0.0000 to 0.9449: 3970 structures
+  0.9449 to 1.8899: 852 structures
+  1.8899 to 2.8348: 695 structures
+  2.8348 to 3.7798: 425 structures
+  3.7798 to 4.7247: 257 structures
+  4.7247 to 5.6696: 87 structures
+  5.6696 to 6.6146: 37 structures
+  6.6146 to 7.5595: 17 structures
+  7.5595 to 8.5045: 7 structures
+  8.5045 to 9.4494: 4 structures

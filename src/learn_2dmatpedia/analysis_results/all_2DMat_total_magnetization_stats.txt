@@ -1,0 +1,21 @@
+total_magnetization statistics:
+  Total structures in database: 6351
+  Structures with total_magnetization: 6351 (100.00%)
+  Min: -10.014716
+  Max: 44.005684
+  Range: 54.020400
+  Mean: 1.141026
+  Median: 0.000000
+  Standard deviation: 3.204283
+
+Histogram distribution:
+  -10.0147 to -4.6127: 1 structures
+  -4.6127 to 0.7894: 4932 structures
+  0.7894 to 6.1914: 1066 structures
+  6.1914 to 11.5934: 225 structures
+  11.5934 to 16.9955: 79 structures
+  16.9955 to 22.3975: 21 structures
+  22.3975 to 27.7996: 14 structures
+  27.7996 to 33.2016: 10 structures
+  33.2016 to 38.6036: 1 structures
+  38.6036 to 44.0057: 2 structures
